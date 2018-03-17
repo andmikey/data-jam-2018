@@ -16,4 +16,3 @@ A place where I'm storing my work, exploring the dataset to see if I can glean a
 - [[https://github.com/urschrei/Geopython][Notebooks and libraries for spatial/geo Python explorations]]
 - [[https://data.dundeecity.gov.uk/][Dundee data portal]]
 - [[http://data.europa.eu/euodp/en/home][EU open data portal]]
-

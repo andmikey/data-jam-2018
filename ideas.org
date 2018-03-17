@@ -7,6 +7,7 @@ We will be looking at the plethora of Dundee GIS data and against that framework
 - Weather data: CSV, wind, temp, pressure, humidity, 2017 only
 - Electric vehicle charging sessions: CSV
 - Air quality: CSV, NO2/PM10
+  - Dataset not particularly good quality
 - Street lights: CSV, all street lights in city
 - Bus stops: CSV/XML, all public transport access nodes in Dundee
 - Bicycle parking: geojson, locations of bicycle parking in city
@@ -14,5 +15,6 @@ We will be looking at the plethora of Dundee GIS data and against that framework
 - Public CCTV cameras
   - DONE: convert to lat/long
 * Ideas
-- Does there being cameras in an area affect the amount of injuries in that area? What about lights?
-- 
+- Are areas with more streetlights more likely to have fewer car crashes? What about cameras?
+  - More streetlights could mean easier to drive during the night, or that the area is more well funded, or...
+
