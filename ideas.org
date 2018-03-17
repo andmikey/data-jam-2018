@@ -3,6 +3,7 @@ We will be looking at the plethora of Dundee GIS data and against that framework
 
 * Datasets:
 - Speed surveys: XLSX, bins of speed for each street/location at a given date
+  - TODO: convert to CSV/dataframe/....
 - Weather data: CSV, wind, temp, pressure, humidity, 2017 only
 - Electric vehicle charging sessions: CSV
 - Air quality: CSV, NO2/PM10
@@ -10,6 +11,8 @@ We will be looking at the plethora of Dundee GIS data and against that framework
 - Bus stops: CSV/XML, all public transport access nodes in Dundee
 - Bicycle parking: geojson, locations of bicycle parking in city
   - Lidar data: how bicycle parking relates to elevation?
-Use OSM data too?
+- Public CCTV cameras
+  - DONE: convert to lat/long
 * Ideas
-Does there being cameras in an area affect the amount of injuries in that area? What about lights?
+- Does there being cameras in an area affect the amount of injuries in that area? What about lights?
+- 
