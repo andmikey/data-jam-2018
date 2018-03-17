@@ -18,3 +18,15 @@ We will be looking at the plethora of Dundee GIS data and against that framework
 - Are areas with more streetlights more likely to have fewer car crashes? What about cameras?
   - More streetlights could mean easier to drive during the night, or that the area is more well funded, or...
 
+* Project idea
+- Analyse: are areas with more streetlights likely to have fewer car crashes?
+- Premise: areas with more streetlights could be better funded, or streetlights could mean easier to drive during the night
+- Data: 
+  - [[https://data.dundeecity.gov.uk/dataset/street-lights][Streetlights]]
+  - [[https://data.dundeecity.gov.uk/dataset/os-open-map-local-dnd][OS Open Map Local]] (for visualisation)
+  - [[https://data.dundeecity.gov.uk/dataset/road-safety-data][Road Safety Data]] (use 2016 only)
+- Analysis method:
+  - Plot out streetlights, accidents
+    - See if anything pops out just by looking at an analysis?
+  - Label each point with distance to nearest streetlight
+  - Crunch numbers!
