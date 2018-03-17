@@ -1,0 +1,12 @@
+* Challenge 1
+We will be looking at the plethora of Dundee GIS data and against that framework be issuing several data sets regarding mobility, air quality and food trading standards. We are aiming to encourage the ability for teams to design mapped visualisations of data across Dundee juxtapositioning layers on top of each other.
+
+For example wouldn’t it be neat to see a 3D model of Dundee displaying traffic patterns as it links to air quality particularly at high traffic areas and then throw in some weather data to see the effect of wind and precipitation?
+* Challenge 2
+Our second challenge is looking at the Dundee City Archives image resource. Focusing in on the EXIF data that can be scraped from the images and from their appearance on Flickr: https://www.flickr.com/photos/118069284@N05/
+
+Looking at skills in web scraping, image manipulation and GIS wouldn’t it be neat to take a walk through nineteenth century Dundee?
+* Challenge 3
+Challenge 3 is shaping up: We are pulling together information regarding building maintenance for Dundee City Council and in particular we are focusing on sensor data: temperature, lights and anything else that we can get our hands on will be available.
+
+The aim of the challenge is to build pictures and ideas of what the sensors can tell us about use and life within the buildings the council owns. 

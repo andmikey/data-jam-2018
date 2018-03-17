@@ -1,0 +1,15 @@
+* Task
+We will be looking at the plethora of Dundee GIS data and against that framework be issuing several data sets regarding mobility, air quality and food trading standards. We are aiming to encourage the ability for teams to design mapped visualisations of data across Dundee juxtapositioning layers on top of each other.
+
+* Datasets:
+- Speed surveys: XLSX, bins of speed for each street/location at a given date
+- Weather data: CSV, wind, temp, pressure, humidity, 2017 only
+- Electric vehicle charging sessions: CSV
+- Air quality: CSV, NO2/PM10
+- Street lights: CSV, all street lights in city
+- Bus stops: CSV/XML, all public transport access nodes in Dundee
+- Bicycle parking: geojson, locations of bicycle parking in city
+  - Lidar data: how bicycle parking relates to elevation?
+Use OSM data too?
+* Ideas
+Does there being cameras in an area affect the amount of injuries in that area? What about lights?
