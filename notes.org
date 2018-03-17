@@ -2,6 +2,8 @@
 - Connections between tables:
   - All are related to an accident_index
   - Each accident will have one or more vehicles and casualties involved
-
+- Accident:
+  - Types: slight, serious, fatal
+  - Has lat/long
 * Steps
 1. Visualise locations of accidents: anything interesting?
