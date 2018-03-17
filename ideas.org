@@ -30,3 +30,10 @@ We will be looking at the plethora of Dundee GIS data and against that framework
     - See if anything pops out just by looking at an analysis?
   - Label each point with distance to nearest streetlight
   - Crunch numbers!
+- Extension:
+  - Consider different types of accidents
+  - Consider also cameras
+    - Premise: areas with fewer cameras may be less likely to have accidents reported
+  - Consider also distance to bike parking
+    - Premise: there will be more bikes near bike parking. Does accident data include bike crashes?
+  - Consider road safety accidents datasets by themselves - are any kinds of accidents more closely coordinated with certain conditions?
