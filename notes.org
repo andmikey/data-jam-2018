@@ -7,3 +7,4 @@
   - Has lat/long
 * Steps
 1. Visualise locations of accidents: anything interesting?
+2. Accidents overlapping with roads?
