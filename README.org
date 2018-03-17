@@ -7,7 +7,7 @@ See [[https://www.wittin.co.uk/index.php/dundee-public-data-hack/][this link]]; 
 A place where I'm storing my work, exploring the dataset to see if I can glean anything interesting from the data.
 
 ** How is this repo structured?
-- challenges.org :: lists the 3 challenges set on the day
-- ideas.org :: my list of interesting datasets and ideas
+- challenges.org :: Lists the 3 challenges set on the day
+- ideas.org :: My list of interesting datasets and ideas
 - notebooks/ :: Jupyter notebooks 
 	- Coords_coordinator.ipynb :: For the camera locations file, converts British National Grid coordinates to lat/long
