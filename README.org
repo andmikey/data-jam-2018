@@ -22,6 +22,7 @@ A place where I'm storing my work, exploring the dataset to see if I can glean a
       - Locations and severities of car crashes in Dundee, 2004 - 2016
       - Locations of cameras in Dundee, and Voronoi map to show nearest camera to a given point
       - Locations and food safety ratings of restaurants in Dundee
+      - The walking distance from Dundee train station (DEE) to various monuments in Dundee, color coded by walking time
 * Useful links
 - [[https://github.com/urschrei/Geopython][Notebooks and libraries for spatial/geo Python explorations]]
 - [[https://data.dundeecity.gov.uk/][Dundee data portal]]
