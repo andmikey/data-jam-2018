@@ -12,11 +12,12 @@ A place where I'm storing my work, exploring the dataset to see if I can glean a
 - notebooks/ :: Jupyter notebooks 
   - Coords_coordinator.ipynb :: For the camera locations file, converts British National Grid coordinates to lat/long
   - Accidents.ipynb :: Exploring accident statistics in Dundee for 2016
-  - Final_NB.ipynb :: A neatened-up version of the Accidents notebook. Includes:
+  - Explorations.ipynb :: Exploring the accident statistics dataset for 2004-206
     - Investigations of three hypotheses:
       1. Are serious or fatal accidents more likely in bad weather?  
       2. Are serious or fatal accidents more likely during the night?
       3. Do any times of day, days of week, or weeks of year have more serious or fatal accidents?
+  - Visualisations.ipynb :: Visualising various datasets
     - Visualisations:
       - Locations and severities of car crashes in Dundee, 2004 - 2016
       - Locations of cameras in Dundee, and Voronoi map to show nearest camera to a given point
